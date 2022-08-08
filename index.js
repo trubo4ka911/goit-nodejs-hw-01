@@ -41,15 +41,3 @@ const invokeAction = async ({ action, id, name, email, phone }) => {
 
 invokeAction(argv);
 
-// invokeAction({ action: "list" });
-// npm i yargs
-// invokeAction({
-//   action: "add",
-//   name: "Mark",
-//   email: "mark123@mail.com",
-//   phone: "121212121",
-// });
-// invokeAction({
-//   action: "remove",
-//   id: "dd499ed9-f1b8-450d-874d-a236e1b18ae0",
-// });
