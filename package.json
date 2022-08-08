@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "commander": "^9.4.0",
+    "nanoid": "^4.0.0",
+    "nodemon": "^2.0.19",
+    "uuidv4": "^6.2.13",
+    "yargs": "^17.5.1"
+  },
+  "name": "goit-nodejs-hw-01",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index",
+    "start:dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trubo4ka911/goit-nodejs-hw-01.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trubo4ka911/goit-nodejs-hw-01/issues"
+  },
+  "homepage": "https://github.com/trubo4ka911/goit-nodejs-hw-01#readme",
+  "description": ""
+}
